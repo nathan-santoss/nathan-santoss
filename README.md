@@ -10,7 +10,7 @@
 
 ## 👨‍💼 Sobre mim
 
-Sou Nathan Santos, estudante de desenvolvimento de sistemas com interesse crescente por tecnologias web e soluções inteligentes. Tenho como objetivo me tornar um profissional de referência, com foco em boas práticas, aprendizado contínuo e impacto positivo por meio da tecnologia.
+Sou Nathan Santos, estudante de desenvolvimento de sistemas pela escola Senac no Rio Grande do Norte. Possuo interesse crescente por tecnologias web e soluções inteligentes. Tenho como objetivo me tornar um profissional de referência, com foco em boas práticas, aprendizado contínuo e impacto positivo por meio da tecnologia.
 
 - 🌍 Localização: Natal - RN, Brasil  
 - 🎯 Objetivo: Evoluir como desenvolvedor full stack  
