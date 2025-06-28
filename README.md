@@ -54,7 +54,7 @@ Sou Nathan Santos, estudante de desenvolvimento de sistemas pela escola Senac no
 
 ## 🌐 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/nathan-oliveira-dos-santos-4400b022a)
+- [LinkedIn](www.linkedin.com/in/nathansantos-dev)
 
 ---
 
