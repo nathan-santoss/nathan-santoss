@@ -21,10 +21,18 @@ Sou Nathan Santos, estudante de desenvolvimento de sistemas com interesse cresce
 
 ## 🧠 Tecnologias em aprendizado
 
-- JavaScript, Python, Java, PHP  
-- React, React Native, Next.js, Vite  
-- HTML, CSS, TailwindCSS  
-- Git, GitHub, VSCode  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="Vite"/>
+</p>
 
 ---
 
@@ -46,6 +54,10 @@ Sou Nathan Santos, estudante de desenvolvimento de sistemas com interesse cresce
 
 ## 🌐 Contato
 
-- LinkedIn: [linkedin.com/in/nathan-oliveira-dos-santos-4400b022a](https://www.linkedin.com/in/nathan-oliveira-dos-santos-4400b022a)
+- [LinkedIn](https://www.linkedin.com/in/nathan-oliveira-dos-santos-4400b022a)
 
 ---
+
+<p align="center">
+  "Não preciso ser perfeito, mas me esforço todos os dias para ser melhor do que ontem."
+</p>
