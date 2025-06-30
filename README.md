@@ -51,13 +51,3 @@ Sou Nathan Santos, estudante de desenvolvimento de sistemas pela escola Senac no
 </div>
 
 ---
-
-## 🌐 Contato
-
-- [LinkedIn](www.linkedin.com/in/nathansantos-dev)
-
----
-
-<p align="center">
-  "Não preciso ser perfeito, mas me esforço todos os dias para ser melhor do que ontem."
-</p>
