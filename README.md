@@ -47,7 +47,7 @@ Sou Nathan Santos, estudante de desenvolvimento de sistemas pela escola Senac no
 ## 📊 Linguagens utilizadas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathansantos&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathansantoss&layout=compact&theme=default" />
 </div>
 
 ---
