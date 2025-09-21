@@ -1,53 +1,18 @@
-<h1 align="center">Olá, eu sou o Nathan Santos 👨‍💻</h1>
+# 💫 About Me:
+I'm Nathan Santos, a Systems Development student at Senac in Rio Grande do Norte. I have a growing interest in web technologies and smart solutions. My goal is to become a recognized professional, with a focus on best practices, continuous learning, and creating a positive impact through technology.<br>
 
-<p align="center">
-  Desenvolvedor em formação | Foco, disciplina e paixão por tecnologia
-</p>
 
-<p align="center"><i>"A única pessoa com quem você deve se comparar é quem você era ontem." – Sigmund Freud</i></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathansantos-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.oliver07@hotmail.com) 
 
----
-
-## 👨‍💼 Sobre mim
-
-Sou Nathan Santos, estudante de desenvolvimento de sistemas pela escola Senac no Rio Grande do Norte. Possuo interesse crescente por tecnologias web e soluções inteligentes. Tenho como objetivo me tornar um profissional de referência, com foco em boas práticas, aprendizado contínuo e impacto positivo por meio da tecnologia.
-
-- 🌍 Localização: Natal - RN, Brasil  
-- 🎯 Objetivo: Evoluir como desenvolvedor full stack  
-- 📚 Estudando: JavaScript, Python, React (Web, Native, Next.js, Vite), Java, PHP, HTML, CSS, TailwindCSS  
-- 🤝 Aberto a colaborações, networking e novos desafios
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nathan-santoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nathan-santoss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-santoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nathan-santoss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tecnologias em aprendizado
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="30" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="Vite"/>
-</p>
-
----
-
-## 📌 Projetos
-
-> No momento, ainda não publiquei projetos no GitHub.  
-> Estou focado em aprendizado, estruturação de ideias e práticas sólidas antes de lançar meus primeiros repositórios públicos.  
-> Em breve, novidades por aqui 👀
-
----
-
-## 📊 Linguagens utilizadas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-santoss&layout=compact&theme=default" />
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
